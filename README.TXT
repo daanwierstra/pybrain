@@ -1,3 +1,4 @@
+Justin is CRAAAAAZYYYYY!
 PyBrain -- the Python Machine Learning Library
 
 PLEASE READ docs/documentation.pdf, featuring
